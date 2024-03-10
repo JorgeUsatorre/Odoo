@@ -9,4 +9,8 @@ Odoo es una suite de aplicaciones de código abierto que cubre todas las necesid
 
 ### Odoo:
 
-![]
+![CapturaDocker1.png](Imagenes/CapturaDocker1.png)
+
+### Postgres:
+
+![CapturaDocker2.png](Imagenes/CapturaDocker2.png)
