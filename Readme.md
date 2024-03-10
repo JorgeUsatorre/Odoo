@@ -55,5 +55,5 @@ Para comprobar que odoo esta en correcto funcionamiento tendremos que introducir
 ![InicioSesionOdoo.png](Imagenes/InicioSesionOdoo.png)
 
 ### Comprobacion de que la nueva base de datos creada con odoo esta en funcionamiento:
-Para comprobar que la base de datos esta en correcto funcionamiento debemos entrar denuevo en la pestaña de bases de datos y devemos refrescar, una vez refrescamos nos daremos cuenta de que a la derecha de la base de datos hay una nueva etiqueta de 1 of 2. 
+Para comprobar que la base de datos esta en correcto funcionamiento debemos entrar denuevo en la pestaña de bases de datos y devemos refrescar, una vez refrescamos nos daremos cuenta de que a la derecha de la base de datos hay una nueva etiqueta de 1 of 2 lo cual nos indica que la base de datos fue creada con exito y esta en correcto funcionamiento.
 ![BaseDeDatos4.png](Imagenes/BaseDeDato4.png)
