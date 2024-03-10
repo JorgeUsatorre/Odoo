@@ -50,3 +50,10 @@ En el caso de que nos se este utilizando este puerto podemos matar el proceso co
 sudo kill nombre_del_proceso
 ```
 
+## Comprobacion de que odoo esta en correcto funcionamiento:
+Para comprobar que odoo esta en correcto funcionamiento tendremos que introducir en la url de nuestro navegador <localhost:8069> y nos aparecera la ventana de inicio de sesion de odoo.
+![InicioSesionOdoo.png](Imagenes/InicioSesionOdoo.png)
+
+### Comprobacion de que la nueva base de datos creada con odoo esta en funcionamiento:
+Para comprobar que la base de datos esta en correcto funcionamiento debemos entrar denuevo en la pestaña de bases de datos y devemos refrescar, una vez refrescamos nos daremos cuenta de que a la derecha de la base de datos hay una nueva etiqueta de 1 of 2. 
+![BaseDeDatos4.png](Imagenes/BaseDeDato4.png)
